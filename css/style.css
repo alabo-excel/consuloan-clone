@@ -37,10 +37,11 @@ header ul li {
 .hero {
   height: 80vh;
   width: 100%;
-  background-image: url("../img/2.jpg");
+  background-image: url("../img/slide_2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
 }
 #btn1 {
   background-color: #f2c21a;
